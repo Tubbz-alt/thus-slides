@@ -1,8 +1,4 @@
 Thus Slide Sources
 ==================
 
-Dependencies are the montserrat font.
-
-```
-sudo pacman -S ttf-montserrat
-```
+Only dependency is the Casper Typeface font
